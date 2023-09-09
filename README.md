@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Puffbirbb
 - 👀 I’m interested in Movies
-- ¯\_( ͡° ͜ʖ ͡°)_/¯ I'm basically a god at Java don worry...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on nothing
+- ¯\_( ͡° ͜ʖ ͡°)_/¯ I'm basically a pretty decent at programming
+- 🌱 I’m currently learning Swift UI, C# and .NET, aswell as looking into React and Python
+- 💞️ I’m looking to find a job
 - 📫 How to reach me is not relevant.
 
 <!---
